@@ -1,4 +1,4 @@
 waterwall
 =========
 
-iptables firewall and traffic shaper script
+iptables firewall and traffic shaper framework
